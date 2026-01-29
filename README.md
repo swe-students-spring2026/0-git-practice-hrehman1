@@ -19,7 +19,7 @@ Jaiden Xu jbx202
 
 ### Kairis's Comment*
 
-This article made me realize that software engineering is shifting from writing code by hand to guiding and reviewing AI-generated code. While AI can increase productivity, human judgment, problem-solving, and design decisions are still essential. Engineers will need to adapt by focusing more on understanding systems rather than just typing code. It also makes me rethink about what we should do when learning to better adapt to future software engineering.
+This article made me realize that software engineering is shifting from writing code by hand to guiding and reviewing AI-generated code. While AI can increase productivity, human judgment, problem-solving, and design decisions are still essential. Engineers will need to adapt by focusing more on understanding systems rather than just typing code. It also makes me rethink about what we should do when learning to better adapt to future software engineering. --qz2558
 
 
 
